@@ -1,4 +1,4 @@
 # kalkulator
 
 
-<img src="record.gif"/>
+<img src="record.gif" width="100"/>
